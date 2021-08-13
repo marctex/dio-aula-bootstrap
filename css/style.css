@@ -7,12 +7,16 @@ body {
 }
 
 .quem-somos { 
-    background-color: blueviolet;   
+    background-color: rgb(192, 142, 240);   
     padding: 30px;
 }
 
 #img-side1 {
-    margin: 30px;
-    background-color: blueviolet;
+    margin: 30px;    
+}
+
+.parceiros {
+    background-color: #D8D8D8;
+    padding: 30px;
 }
 
