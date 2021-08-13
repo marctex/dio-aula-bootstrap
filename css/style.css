@@ -6,6 +6,9 @@ body {
     background-color: #D8D8D8;
 }
 
+h2 {
+    font-size: 2em;
+}
 .quem-somos { 
     background-color: rgb(192, 142, 240);   
     padding: 30px;
@@ -18,5 +21,14 @@ body {
 .parceiros {
     background-color: #D8D8D8;
     padding: 30px;
+}
+
+.servicos {
+    background-color: #F781F3;
+    padding: 30px;
+}
+
+p {
+    text-align: justify;
 }
 
