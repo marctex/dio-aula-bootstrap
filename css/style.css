@@ -32,3 +32,10 @@ p {
     text-align: justify;
 }
 
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 10px;    
+}
+
